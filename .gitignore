@@ -1,0 +1,1 @@
+node_modules/\n.venv/\n__pycache__/\n.DS_Store\n.env\n*.log\ndist/\nbuild/\n.terraform/

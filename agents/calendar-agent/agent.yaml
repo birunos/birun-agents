@@ -1,0 +1,1 @@
+name: calendar-agent\nversion: 0.1.0\napproval:\n  required_for: [purchase, booking, message_send, location_share]\naudit:\n  required: true
