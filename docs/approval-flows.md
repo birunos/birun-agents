@@ -1,1 +1,3 @@
-# approval-flows\n\nHosted agent placeholder.
+# approval-flows
+
+Hosted agent placeholder.

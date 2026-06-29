@@ -1,1 +1,3 @@
-# restaurant-booking-agent\n\nHosted agent placeholder.
+# restaurant-booking-agent
+
+Hosted agent placeholder.

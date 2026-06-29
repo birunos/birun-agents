@@ -1,1 +1,3 @@
-# shopping-agent\n\nHosted agent placeholder.
+# shopping-agent
+
+Hosted agent placeholder.

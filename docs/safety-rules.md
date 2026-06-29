@@ -1,1 +1,3 @@
-# safety-rules\n\nHosted agent placeholder.
+# safety-rules
+
+Hosted agent placeholder.

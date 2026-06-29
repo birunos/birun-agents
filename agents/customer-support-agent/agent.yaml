@@ -1,1 +1,6 @@
-name: customer-support-agent\nversion: 0.1.0\napproval:\n  required_for: [purchase, booking, message_send, location_share]\naudit:\n  required: true
+name: customer-support-agent
+version: 0.1.0
+approval:
+  required_for: [purchase, booking, message_send, location_share]
+audit:
+  required: true

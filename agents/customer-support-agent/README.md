@@ -1,1 +1,3 @@
-# customer-support-agent\n\nHosted agent placeholder.
+# customer-support-agent
+
+Hosted agent placeholder.

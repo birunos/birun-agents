@@ -1,1 +1,5 @@
-# TODO\n\n- Replace bootstrap placeholders with private commercial implementation.\n- Do not commit production secrets or customer data.\n- Keep contracts aligned with openagent-specs.
+# TODO
+
+- Replace bootstrap placeholders with private commercial implementation.
+- Do not commit production secrets or customer data.
+- Keep contracts aligned with openagent-specs.

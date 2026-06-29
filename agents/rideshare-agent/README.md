@@ -1,1 +1,3 @@
-# rideshare-agent\n\nHosted agent placeholder.
+# rideshare-agent
+
+Hosted agent placeholder.

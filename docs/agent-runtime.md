@@ -1,1 +1,3 @@
-# agent-runtime\n\nHosted agent placeholder.
+# agent-runtime
+
+Hosted agent placeholder.

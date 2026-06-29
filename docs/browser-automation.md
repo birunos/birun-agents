@@ -1,1 +1,3 @@
-# browser-automation\n\nHosted agent placeholder.
+# browser-automation
+
+Hosted agent placeholder.

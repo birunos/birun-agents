@@ -1,1 +1,3 @@
-# calendar-agent\n\nHosted agent placeholder.
+# calendar-agent
+
+Hosted agent placeholder.
