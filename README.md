@@ -24,3 +24,7 @@ Production repository public trust material lives under
 prepared there, but it has no authority until an offline threshold root signs
 and delegates it. Private signing keys never belong in this repository or its
 release assets.
+
+Development candidate trust material lives under
+[`trust/development`](trust/development). Its online keys are isolated from the
+production trust domain, and development candidates are not device defaults.
