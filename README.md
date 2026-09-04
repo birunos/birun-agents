@@ -18,3 +18,9 @@ repository, lifecycle, runtime, model, MCP, and state authority boundaries.
 
 The active package/runtime contracts and end-to-end acceptance stories live in
 the [`birunos`](https://github.com/birunos/birunos) repository.
+
+Production repository public trust material lives under
+[`trust/production`](trust/production). A delegated release public key may be
+prepared there, but it has no authority until an offline threshold root signs
+and delegates it. Private signing keys never belong in this repository or its
+release assets.
